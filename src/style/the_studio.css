@@ -1,0 +1,8 @@
+.the_studio img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    margin-top: 200px;
+    overflow: hidden;
+}
