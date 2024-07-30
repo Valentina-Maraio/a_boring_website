@@ -1,5 +1,5 @@
 # A (not so) Boring Website
-working on a new persona digital portfolio. Will includes the use of React, a lot of CSS, Procreate illustration and much more.
+working on a new personal digital portfolio. It will includes the use of React, a lot of CSS, Procreate illustration and much more.
 
 
 # Getting Started with Create React App
